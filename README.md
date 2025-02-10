@@ -1,3 +1,6 @@
+Fork from [217heidai/adblockfilters](https://github.com/217heidai/adblockfilters)  
+
+增加更多的上游规则。  
 
 # AdBlock DNS Filters
 去广告合并规则，每8个小时更新一次。  
