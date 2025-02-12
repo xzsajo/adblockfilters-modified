@@ -3,9 +3,9 @@
 # Description: 适用于 Shadowrocket 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Big、SmartTV Blocklist、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts、Peter Lowe。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclashlite.list
-# Version: 20250212001435
-# Last modified: 2025/02/12 00:14:35
-# Blocked domains: 7673
+# Version: 20250212084953
+# Last modified: 2025/02/12 08:49:53
+# Blocked domains: 7676
 #
 DOMAIN-SUFFIX,00xvppy.cn
 DOMAIN-SUFFIX,011.com
@@ -187,7 +187,6 @@ DOMAIN-SUFFIX,www.150170.com
 DOMAIN-SUFFIX,1503.net
 DOMAIN-SUFFIX,152.136.140.85
 DOMAIN-SUFFIX,152.136.159.25
-DOMAIN-SUFFIX,159.75.114.131
 DOMAIN-SUFFIX,15tianqi.com
 DOMAIN-SUFFIX,ad.163.com
 DOMAIN-SUFFIX,adgeo.163.com
@@ -257,7 +256,6 @@ DOMAIN-SUFFIX,180.76.138.238
 DOMAIN-SUFFIX,eezdx.erc.18183.com
 DOMAIN-SUFFIX,img1.18183.com
 DOMAIN-SUFFIX,zpe.klre.18183.com
-DOMAIN-SUFFIX,182.127.109.232
 DOMAIN-SUFFIX,182.127.128.73
 DOMAIN-SUFFIX,182.92.99.95
 DOMAIN-SUFFIX,photo.188kc.cn
@@ -464,7 +462,6 @@ DOMAIN-SUFFIX,m.408uo.cn
 DOMAIN-SUFFIX,42.192.195.221
 DOMAIN-SUFFIX,42.226.66.2
 DOMAIN-SUFFIX,42.230.34.4
-DOMAIN-SUFFIX,42.239.224.218
 DOMAIN-SUFFIX,42.240.133.45
 DOMAIN-SUFFIX,426g.com
 DOMAIN-SUFFIX,43.143.123.40
@@ -497,6 +494,7 @@ DOMAIN-SUFFIX,47.93.243.161
 DOMAIN-SUFFIX,47.94.196.131
 DOMAIN-SUFFIX,47.98.194.85
 DOMAIN-SUFFIX,49.234.38.224
+DOMAIN-SUFFIX,49.234.48.162
 DOMAIN-SUFFIX,s.4cola.com
 DOMAIN-SUFFIX,4d0m.cn
 DOMAIN-SUFFIX,4h44.com
@@ -942,6 +940,7 @@ DOMAIN-SUFFIX,aizhigu.com.cn
 DOMAIN-SUFFIX,aizipai.cn
 DOMAIN-SUFFIX,ajiang.net
 DOMAIN-SUFFIX,ajxukah.cn
+DOMAIN-SUFFIX,ljlgf.akgoj.cn
 DOMAIN-SUFFIX,aknusp.cn
 DOMAIN-SUFFIX,smetrics.alfalaval.cn
 DOMAIN-SUFFIX,bmp.ali213.net
@@ -6203,6 +6202,9 @@ DOMAIN-SUFFIX,tnc3-bjlgy.toutiaoapi.com
 DOMAIN-SUFFIX,toutiaopage.com
 DOMAIN-SUFFIX,tovppl.cn
 DOMAIN-SUFFIX,towmfs.com
+DOMAIN-SUFFIX,lszrp.tqhmu.cn
+DOMAIN-SUFFIX,qxoyon.tqhmu.cn
+DOMAIN-SUFFIX,yeszp.tqhmu.cn
 DOMAIN-SUFFIX,track001.com
 DOMAIN-SUFFIX,trackingio.com
 DOMAIN-SUFFIX,tradesoul.cn
@@ -6847,6 +6849,7 @@ DOMAIN-SUFFIX,xcdf.cn
 DOMAIN-SUFFIX,mldy.xdaay.cn
 DOMAIN-SUFFIX,52m.xde6.net
 DOMAIN-SUFFIX,analytics.xdiarys.com
+DOMAIN-SUFFIX,bqzsmvlnav.xdiheu.cn
 DOMAIN-SUFFIX,xdrig.com
 DOMAIN-SUFFIX,180.xdwan.com
 DOMAIN-SUFFIX,m.xeig.cn

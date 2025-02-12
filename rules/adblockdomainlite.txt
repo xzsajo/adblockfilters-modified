@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Big、SmartTV Blocklist、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts、Peter Lowe。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250212001435
-! Last modified: 2025/02/12 00:14:35
-! Blocked domains: 7673
+! Version: 20250212084953
+! Last modified: 2025/02/12 08:49:53
+! Blocked domains: 7676
 !
 00xvppy.cn
 011.com
@@ -187,7 +187,6 @@ www.150170.com
 1503.net
 152.136.140.85
 152.136.159.25
-159.75.114.131
 15tianqi.com
 ad.163.com
 adgeo.163.com
@@ -257,7 +256,6 @@ trk1.17admob.com
 eezdx.erc.18183.com
 img1.18183.com
 zpe.klre.18183.com
-182.127.109.232
 182.127.128.73
 182.92.99.95
 photo.188kc.cn
@@ -464,7 +462,6 @@ m.408uo.cn
 42.192.195.221
 42.226.66.2
 42.230.34.4
-42.239.224.218
 42.240.133.45
 426g.com
 43.143.123.40
@@ -497,6 +494,7 @@ stat.api.4399.com
 47.94.196.131
 47.98.194.85
 49.234.38.224
+49.234.48.162
 s.4cola.com
 4d0m.cn
 4h44.com
@@ -942,6 +940,7 @@ aizhigu.com.cn
 aizipai.cn
 ajiang.net
 ajxukah.cn
+ljlgf.akgoj.cn
 aknusp.cn
 smetrics.alfalaval.cn
 bmp.ali213.net
@@ -6203,6 +6202,9 @@ tnc3-bjlgy.toutiaoapi.com
 toutiaopage.com
 tovppl.cn
 towmfs.com
+lszrp.tqhmu.cn
+qxoyon.tqhmu.cn
+yeszp.tqhmu.cn
 track001.com
 trackingio.com
 tradesoul.cn
@@ -6847,6 +6849,7 @@ xcdf.cn
 mldy.xdaay.cn
 52m.xde6.net
 analytics.xdiarys.com
+bqzsmvlnav.xdiheu.cn
 xdrig.com
 180.xdwan.com
 m.xeig.cn
