@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Big、SmartTV Blocklist、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts、PeterLowe。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20250214161450
-# Last modified: 2025/02/14 16:14:50
-# Blocked domains: 10181
+# Version: 20250215084849
+# Last modified: 2025/02/15 08:48:49
+# Blocked domains: 10177
 #
 local=/395131115419474531.002.sh.cn/
 local=/00xvppy.cn/
@@ -107,9 +107,6 @@ local=/1.11467.com/
 local=/114la.com/
 local=/115.28.26.10/
 local=/115.48.24.151/
-local=/115.55.192.62/
-local=/115.55.223.75/
-local=/115.58.81.139/
 local=/116.196.95.100/
 local=/116.198.229.197/
 local=/117.157.17.194/
@@ -138,7 +135,9 @@ local=/ip.120ask.com/
 local=/log.120ask.com/
 local=/scws.120ask.com/
 local=/x.120ask.com/
-local=/120askimages.com/
+local=/bdjs.120askimages.com/
+local=/bdlm.120askimages.com/
+local=/bdwmhz.120askimages.com/
 local=/121.40.48.175/
 local=/121.40.55.28/
 local=/121.41.89.22/
@@ -150,7 +149,6 @@ local=/122.51.52.109/
 local=/js1.122cha.com/
 local=/123.253.12.111/
 local=/123.56.191.147/
-local=/123.57.175.239/
 local=/123.57.230.183/
 local=/123.57.250.154/
 local=/ad.12306.cn/
@@ -210,7 +208,6 @@ local=/150100.cn/
 local=/www.150170.com/
 local=/1503.net/
 local=/152.136.140.85/
-local=/152.136.159.25/
 local=/1527ego.com/
 local=/15tianqi.com/
 local=/universal.driver.160.com/
@@ -548,7 +545,6 @@ local=/47.109.178.54/
 local=/47.109.201.173/
 local=/47.109.77.84/
 local=/47.109.90.134/
-local=/47.113.107.52/
 local=/47.113.217.92/
 local=/47.115.54.19/
 local=/47.119.189.207/
