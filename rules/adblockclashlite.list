@@ -3,9 +3,9 @@
 # Description: 适用于 Shadowrocket 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Big、SmartTV Blocklist、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts、PeterLowe。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclashlite.list
-# Version: 20250217001154
-# Last modified: 2025/02/17 00:11:54
-# Blocked domains: 10187
+# Version: 20250217085250
+# Last modified: 2025/02/17 08:52:50
+# Blocked domains: 10181
 #
 DOMAIN-SUFFIX,395131115419474531.002.sh.cn
 DOMAIN-SUFFIX,00xvppy.cn
@@ -91,7 +91,6 @@ DOMAIN-SUFFIX,111.42.156.130
 DOMAIN-SUFFIX,1.11130.com.cn
 DOMAIN-SUFFIX,polska-olx.111455.xyz
 DOMAIN-SUFFIX,112.124.71.123
-DOMAIN-SUFFIX,112.33.27.73
 DOMAIN-SUFFIX,oss-asq-static.11222.cn
 DOMAIN-SUFFIX,113.219.177.95
 DOMAIN-SUFFIX,113.31.111.76
@@ -107,7 +106,6 @@ DOMAIN-SUFFIX,1.11467.com
 DOMAIN-SUFFIX,114la.com
 DOMAIN-SUFFIX,115.28.26.10
 DOMAIN-SUFFIX,115.62.144.84
-DOMAIN-SUFFIX,115.62.145.10
 DOMAIN-SUFFIX,116.196.95.100
 DOMAIN-SUFFIX,116.198.229.197
 DOMAIN-SUFFIX,117.157.17.194
@@ -139,7 +137,6 @@ DOMAIN-SUFFIX,x.120ask.com
 DOMAIN-SUFFIX,bdjs.120askimages.com
 DOMAIN-SUFFIX,bdlm.120askimages.com
 DOMAIN-SUFFIX,bdwmhz.120askimages.com
-DOMAIN-SUFFIX,121.4.36.95
 DOMAIN-SUFFIX,121.40.48.175
 DOMAIN-SUFFIX,121.40.55.28
 DOMAIN-SUFFIX,121.41.89.22
@@ -150,7 +147,6 @@ DOMAIN-SUFFIX,122.51.183.116
 DOMAIN-SUFFIX,122.51.52.109
 DOMAIN-SUFFIX,js1.122cha.com
 DOMAIN-SUFFIX,123.132.224.187
-DOMAIN-SUFFIX,123.253.12.111
 DOMAIN-SUFFIX,123.56.191.147
 DOMAIN-SUFFIX,123.57.250.154
 DOMAIN-SUFFIX,ad.12306.cn
@@ -522,7 +518,6 @@ DOMAIN-SUFFIX,4009997658.com
 DOMAIN-SUFFIX,m.408uo.cn
 DOMAIN-SUFFIX,khbd.41319.top
 DOMAIN-SUFFIX,42.192.195.221
-DOMAIN-SUFFIX,42.226.70.156
 DOMAIN-SUFFIX,42.240.133.45
 DOMAIN-SUFFIX,426g.com
 DOMAIN-SUFFIX,43.143.123.40
@@ -4234,7 +4229,6 @@ DOMAIN-SUFFIX,huataisangao.cn
 DOMAIN-SUFFIX,drcn-weather.cloud.huawei.com
 DOMAIN-SUFFIX,hwa.his.huawei.com
 DOMAIN-SUFFIX,httpdns.huaweicloud.com
-DOMAIN-SUFFIX,repo.huaweicloud.com
 DOMAIN-SUFFIX,mldy.huaxiays.cn
 DOMAIN-SUFFIX,huayusoft.com
 DOMAIN-SUFFIX,matomo.huazhi.cloud
