@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Big、SmartTV Blocklist、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts、PeterLowe。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250217161551
-! Last modified: 2025/02/17 16:15:51
-! Blocked domains: 10206
+! Version: 20250218001333
+! Last modified: 2025/02/18 00:13:33
+! Blocked domains: 10199
 !
 395131115419474531.002.sh.cn
 00xvppy.cn
@@ -94,7 +94,6 @@ polska-olx.111455.xyz
 oss-asq-static.11222.cn
 113.219.177.95
 113.31.111.76
-113.44.48.28
 113.44.90.0
 113.98.201.248
 114.215.27.238
@@ -198,7 +197,6 @@ wanproxy.127.net
 yt-adp.nosdn.127.net
 1357902.cn
 139.159.155.204
-139.196.237.171
 139.198.15.223
 lyapi.1391.com
 mhdufile.1391.com
@@ -284,7 +282,6 @@ trk1.17admob.com
 eezdx.erc.18183.com
 img1.18183.com
 zpe.klre.18183.com
-182.127.128.73
 182.92.99.95
 photo.188kc.cn
 webwebfenxi.189.cn
@@ -1332,7 +1329,6 @@ sd17glass3es1s0pan.oss-us-west-1.aliyuncs.com
 shangmei-test.oss-cn-beijing.aliyuncs.com
 shaquevip.oss-cn-zhangjiakou.aliyuncs.com
 star-seo.oss-ap-northeast-1.aliyuncs.com
-storageinstance.oss-ap-southeast-1.aliyuncs.com
 swwwxww.oss-cn-hangzhou.aliyuncs.com
 sz88.oss-cn-shenzhen.aliyuncs.com
 tci.oss-ap-southeast-1.aliyuncs.com
@@ -1444,7 +1440,6 @@ appsdt.com
 appuu.cn
 static.appbox.apuslauncher.com
 aqgyju.cn
-www.aqianniao.com
 vinted-pl-gj32d.aqiwen.top
 aqrokdw.cn
 aqtcw.cn
@@ -3705,7 +3700,6 @@ hykt.gotoip3.com
 gouzhibao.cn
 govkunming.cn
 govxian.cn
-gpfbbxl.cn
 gpl0.cn
 gpscard.cn
 gpsvzdr.cn
@@ -9078,7 +9072,6 @@ xdaigua.cn
 52m.xde6.net
 analytics.xdiarys.com
 bqzsmvlnav.xdiheu.cn
-wap.xdmk.cn
 xdrig.com
 xdrzdh.cn
 180.xdwan.com
