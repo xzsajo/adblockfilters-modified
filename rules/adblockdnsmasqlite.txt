@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Big、SmartTV Blocklist、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts、PeterLowe。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20250218161501
-# Last modified: 2025/02/18 16:15:01
-# Blocked domains: 10218
+# Version: 20250219001416
+# Last modified: 2025/02/19 00:14:16
+# Blocked domains: 10211
 #
 local=/395131115419474531.002.sh.cn/
 local=/00xvppy.cn/
@@ -105,7 +105,6 @@ local=/114.fm/
 local=/1.11467.com/
 local=/114la.com/
 local=/115.28.26.10/
-local=/115.58.81.204/
 local=/116.196.95.100/
 local=/116.198.229.197/
 local=/116.205.98.214/
@@ -139,7 +138,6 @@ local=/bdjs.120askimages.com/
 local=/bdlm.120askimages.com/
 local=/bdwmhz.120askimages.com/
 local=/121.4.36.95/
-local=/121.40.48.175/
 local=/121.40.55.28/
 local=/121.41.89.22/
 local=/121.43.104.75/
@@ -475,7 +473,6 @@ local=/37wan.com/
 local=/384756783900.cn/
 local=/m.38xs.com/
 local=/38zu.cn/
-local=/39.100.33.142/
 local=/39.102.210.162/
 local=/39.103.150.56/
 local=/39.103.217.92/
@@ -525,7 +522,6 @@ local=/m.408uo.cn/
 local=/khbd.41319.top/
 local=/42.192.195.221/
 local=/42.226.88.4/
-local=/42.237.55.237/
 local=/42.240.133.45/
 local=/426g.com/
 local=/43.143.123.40/
@@ -739,7 +735,6 @@ local=/ee.60w3s.cn/
 local=/612.com/
 local=/612100.cn/
 local=/m.61lvi.cn/
-local=/62.234.57.48/
 local=/m5.66077.cn/
 local=/6612151.cn/
 local=/6613167.cn/
@@ -809,7 +804,6 @@ local=/7ssw.cn/
 local=/7x24s.com/
 local=/cp.7y7.com/
 local=/7ywl.com/
-local=/8.130.24.191/
 local=/8.131.63.6/
 local=/8.134.163.72/
 local=/8.137.114.210/
@@ -4249,7 +4243,6 @@ local=/drcn-weather.cloud.huawei.com/
 local=/hwa.his.huawei.com/
 local=/httpdns.huaweicloud.com/
 local=/mldy.huaxiays.cn/
-local=/huayusoft.com/
 local=/matomo.huazhi.cloud/
 local=/hubcloud.com.cn/
 local=/hubiazhi.com/

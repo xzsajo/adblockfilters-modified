@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Big、SmartTV Blocklist、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts、PeterLowe。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250218161501
-! Last modified: 2025/02/18 16:15:01
-! Blocked domains: 10218
+! Version: 20250219001416
+! Last modified: 2025/02/19 00:14:16
+! Blocked domains: 10211
 ! unBlocked domains: 51
 !
 ||395131115419474531.002.sh.cn^
@@ -106,7 +106,6 @@
 ||1.11467.com^
 ||114la.com^
 ||115.28.26.10^
-||115.58.81.204^
 ||116.196.95.100^
 ||116.198.229.197^
 ||116.205.98.214^
@@ -140,7 +139,6 @@
 ||bdlm.120askimages.com^
 ||bdwmhz.120askimages.com^
 ||121.4.36.95^
-||121.40.48.175^
 ||121.40.55.28^
 ||121.41.89.22^
 ||121.43.104.75^
@@ -476,7 +474,6 @@
 ||384756783900.cn^
 ||m.38xs.com^
 ||38zu.cn^
-||39.100.33.142^
 ||39.102.210.162^
 ||39.103.150.56^
 ||39.103.217.92^
@@ -526,7 +523,6 @@
 ||khbd.41319.top^
 ||42.192.195.221^
 ||42.226.88.4^
-||42.237.55.237^
 ||42.240.133.45^
 ||426g.com^
 ||43.143.123.40^
@@ -740,7 +736,6 @@
 ||612.com^
 ||612100.cn^
 ||m.61lvi.cn^
-||62.234.57.48^
 ||m5.66077.cn^
 ||6612151.cn^
 ||6613167.cn^
@@ -810,7 +805,6 @@
 ||7x24s.com^
 ||cp.7y7.com^
 ||7ywl.com^
-||8.130.24.191^
 ||8.131.63.6^
 ||8.134.163.72^
 ||8.137.114.210^
@@ -4250,7 +4244,6 @@
 ||hwa.his.huawei.com^
 ||httpdns.huaweicloud.com^
 ||mldy.huaxiays.cn^
-||huayusoft.com^
 ||matomo.huazhi.cloud^
 ||hubcloud.com.cn^
 ||hubiazhi.com^
